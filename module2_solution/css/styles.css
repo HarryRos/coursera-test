@@ -1,7 +1,7 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
-  font-family: cursive;
+  font-family: 'Cedarville Cursive', cursive;
 }
 h1 {
   margin-bottom: 15px;
@@ -21,9 +21,10 @@ p {
 .title{
   padding: 5px;
   float: right;
-  font-weight: bold;
   margin-bottom: 10px;
   font-size: 1.25em;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
 }
 
 .menu-item{
