@@ -45,6 +45,10 @@ body {
 	background-color: #f5f5dc;
 }
 
+#collapsable-nav li a {
+		color: black;
+}
+
 h2 {
 	font-family: 'Kaushan Script', cursive;
 }
